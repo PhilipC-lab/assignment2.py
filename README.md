@@ -2,3 +2,4 @@
 python script
 
 """
+print('yes')
