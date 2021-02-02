@@ -1,7 +1,1 @@
-"""
-python script
-
-"""
-print('yes')
-This is the new text I wrote
-Added text test
+Activate Hello World Script by writing 'as2pythonscript.py' in terminal
